@@ -1,6 +1,6 @@
 import { listingsResponseSchema, type ListingFilters, type ListingsResponse } from "./types";
 
-export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:4000";
+export const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "";
 
 type FetchListingsInput = {
   filters: ListingFilters;
@@ -25,7 +25,7 @@ function qs({ filters, page, pageSize = 20 }: FetchListingsInput): string {
 }
 
 export async function fetchListings(input: FetchListingsInput): Promise<ListingsResponse> {
-  const response = await fetch(`${API_URL}/api/listings?${qs(input)}`, {
+  const response = await fetch(`/api/listings?${qs(input)}`, {
     cache: "no-store"
   });
 

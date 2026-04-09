@@ -2,7 +2,6 @@ export type LatLng = { lat: number; lng: number };
 
 const CACHE_KEY = "realty-minibus:geocode:v1";
 const MIN_COORD = 0.00001;
-const API_URL = process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:4000";
 
 function loadCache(): Record<string, LatLng> {
   if (typeof window === "undefined") {
@@ -38,7 +37,7 @@ export async function geocodeAddress(address: string): Promise<LatLng | null> {
     return cache[key];
   }
 
-  const url = `${API_URL}/api/geocode?address=${encodeURIComponent(address)}`;
+  const url = `/api/geocode?address=${encodeURIComponent(address)}`;
 
   try {
     const response = await fetch(url, {

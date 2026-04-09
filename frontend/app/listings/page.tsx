@@ -116,6 +116,9 @@ function ListingsPageClient(): JSX.Element {
 
   useEffect(() => {
     let socket: Socket | null = null;
+    if (!API_URL) {
+      return () => {};
+    }
     try {
       socket = io(API_URL, {
         transports: ["websocket"]
