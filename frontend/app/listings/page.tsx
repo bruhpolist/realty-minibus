@@ -74,7 +74,8 @@ function ListingsPageClient(): JSX.Element {
         filters,
         page,
         pageSize: PAGE_SIZE
-      })
+      }),
+    refetchInterval: 10_000
   });
 
   function pushSearchParams(next: URLSearchParams): void {
