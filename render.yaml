@@ -3,12 +3,14 @@ databases:
     databaseName: realty_minibus
     user: realty_user
     plan: basic-256mb
+    ipAllowList: []
 
 services:
   - type: redis
     name: realty-redis
     plan: starter
     maxmemoryPolicy: allkeys-lru
+    ipAllowList: []
 
   - type: web
     name: realty-backend
