@@ -13,6 +13,8 @@ export function initTelegramBot(): Telegraf | null {
     return null;
   }
 
+  console.log(`[telegram] BOT_TOKEN detected (len=${config.BOT_TOKEN.length})`);
+
   if (bot) {
     return bot;
   }
@@ -41,8 +43,12 @@ export function initTelegramBot(): Telegraf | null {
     );
   });
 
+  console.log("[telegram] launching bot (long polling)...");
+
   bot
-    .launch()
+    .launch({
+      dropPendingUpdates: false
+    })
     .then(() => console.log("[telegram] bot started"))
     .catch((error) => console.error("[telegram] launch failed", error));
 
