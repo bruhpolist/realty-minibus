@@ -1,0 +1,13 @@
+node_modules/
+**/node_modules/
+.env
+.next/
+dist/
+coverage/
+*.log
+prisma/migrations/
+
+public/images/*
+!public/images/.gitkeep
+test-results/
+playwright-report/

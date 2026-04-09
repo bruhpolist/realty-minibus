@@ -1,0 +1,45 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Listing {
+  id        String   @id @default(uuid())
+  source    String
+  externalId String?
+  url       String   @unique
+  priceBYN  Float
+  priceUSD  Float
+  address   String
+  rooms     Int?
+  area      Float?
+  ownerType String?
+  ownerName String?
+  features  String[]
+  images    String[]
+  hash      String
+  sourceCreatedAt DateTime?
+  sourceUpdatedAt DateTime?
+  sourcePriceChangeDate DateTime?
+  createdAt DateTime @default(now())
+
+  @@index([source, createdAt])
+  @@index([source, externalId])
+  @@index([priceBYN])
+  @@index([priceUSD])
+  @@index([hash])
+}
+
+model Subscriber {
+  id         String   @id @default(uuid())
+  chatId     String   @unique
+  username   String?
+  firstName  String?
+  isActive   Boolean  @default(true)
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+}

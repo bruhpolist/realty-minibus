@@ -1,0 +1,1163 @@
+{
+    "apartments": [
+        {
+            "id": 965583,
+            "price": {
+                "amount": "330.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "957.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "330.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, Холмогорская улица, 47 к1",
+                "user_address": "Минск, Холмогорская улица, 47 к1",
+                "latitude": 53.888376,
+                "longitude": 27.653851500000002
+            },
+            "photo": "https://imgproxy.onliner.by/00FUFWdD2t_q3WFBTF4k_AdB-3l9QSWlavFCeZa4-dM/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zODY4/MzMvb3JpZ2luYWwv/NzM0MmRiZDllMWYy/YjM2NmVhNzM3NmIx/ZTEyZjliNzEuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-08T11:48:05+03:00",
+            "last_time_up": "2026-04-09T14:03:43+03:00",
+            "up_available_in": 85627,
+            "url": "https://r.onliner.by/ak/apartments/965583"
+        },
+        {
+            "id": 961866,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "г. Минск, Бурдейного ул., д. 7",
+                "user_address": "Минск, Бурдейного ул., 7",
+                "latitude": 53.903721,
+                "longitude": 27.45919
+            },
+            "photo": "https://imgproxy.onliner.by/kpp_2o4tiXRH_5DNBZaFvch5TYXctLErqM5kYaUak7A/w:600/h:400/dpr:2/aHR0cHM6Ly9jcm0u/aW8uYWN0aXZlY2xv/dWQuY29tL2J1cm9f/Mi9jcm0vb2JqZWN0/cy9pbWFnZXMvNjlh/NWJhZjQ5NDI2MTQ4/NzkzMTQ2MC5qcGc",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-02T22:51:41+03:00",
+            "last_time_up": "2026-04-09T14:00:14+03:00",
+            "up_available_in": 85418,
+            "url": "https://r.onliner.by/ak/apartments/961866"
+        },
+        {
+            "id": 964017,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "г. Минск, Интернациональная ул., д. 15",
+                "user_address": "Минск, Интернациональная ул., 15",
+                "latitude": 53.902374,
+                "longitude": 27.555336
+            },
+            "photo": "https://imgproxy.onliner.by/n95DV9gCNr5fVRX_-LnxTrNFiIax__cc4eRn_W-FC-g/w:600/h:400/dpr:2/aHR0cHM6Ly9jcm0u/aW8uYWN0aXZlY2xv/dWQuY29tL2J1cm9f/Mi9jcm0vb2JqZWN0/cy9pbWFnZXMvNjhl/NjlmZDE3ZTJjNTA2/ODk2OTMxMS5qcGc",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-23T13:08:26+03:00",
+            "last_time_up": "2026-04-09T14:00:05+03:00",
+            "up_available_in": 85409,
+            "url": "https://r.onliner.by/ak/apartments/964017"
+        },
+        {
+            "id": 965617,
+            "price": {
+                "amount": "350.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1015.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "350.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, Парниковая улица, 5",
+                "user_address": "Минск, Парниковая улица, 5",
+                "latitude": 53.9213477,
+                "longitude": 27.63302705
+            },
+            "photo": "https://imgproxy.onliner.by/6ujiqrQVkeC35yA4pDZ1kjk1cQ-y4R7Wv64uuO9I1w0/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zNzM5/MTk5L29yaWdpbmFs/LzE1MGJlZGM0NTI0/YzU5MDQwOWU0MjJi/YmJmMjY4NjdkLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-08T12:38:58+03:00",
+            "last_time_up": "2026-04-09T13:55:34+03:00",
+            "up_available_in": 85138,
+            "url": "https://r.onliner.by/ak/apartments/965617"
+        },
+        {
+            "id": 964816,
+            "price": {
+                "amount": "320.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "928.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "320.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "",
+                "user_address": "Минск, Тимирязева, 28",
+                "latitude": 53.914627,
+                "longitude": 27.523849
+            },
+            "photo": "https://imgproxy.onliner.by/eQen4thCZ3qG4o0naAZfxWHeNk6OAOktzPyyQek-3I4/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/LzVhMzhmYzRiNGEy/ZGI3NmMwZDRkOGIx/MDNlY2UwZGI4Lmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-31T12:45:41+03:00",
+            "last_time_up": "2026-04-09T13:55:28+03:00",
+            "up_available_in": 85132,
+            "url": "https://r.onliner.by/ak/apartments/964816"
+        },
+        {
+            "id": 964706,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "",
+                "user_address": "Минск, Брилевская, 37",
+                "latitude": 53.868519,
+                "longitude": 27.527058
+            },
+            "photo": "https://imgproxy.onliner.by/i2vi0yMGzjpm8-d2yLxJpRBm9hYxz9lQM10rkik4Qiw/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/Lzg2ZjgxMzkwMjgx/MjY0ZWE2YTI1NzE1/Y2E0NjE4ZjUwLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-30T10:41:43+03:00",
+            "last_time_up": "2026-04-09T13:55:28+03:00",
+            "up_available_in": 85132,
+            "url": "https://r.onliner.by/ak/apartments/964706"
+        },
+        {
+            "id": 961835,
+            "price": {
+                "amount": "900.00",
+                "currency": "BYN",
+                "converted": {
+                    "BYN": {
+                        "amount": "900.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "310.34",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "",
+                "user_address": "Минск, Пржевальского, 2",
+                "latitude": 53.867065,
+                "longitude": 27.666224
+            },
+            "photo": "https://imgproxy.onliner.by/Ct5fL9xxvpQYVqFaiGUcJvHg9pf20B1ennPbcvEpYKg/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/LzAyY2U5ODE1ZmZh/ZTdiOWNkOTIzNTFi/MjczMGQ0OTI0Lmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-02T15:08:45+03:00",
+            "last_time_up": "2026-04-09T13:55:28+03:00",
+            "up_available_in": 85132,
+            "url": "https://r.onliner.by/ak/apartments/961835"
+        },
+        {
+            "id": 964901,
+            "price": {
+                "amount": "370.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1073.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "370.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "",
+                "user_address": "Боровляны, 40 лет Победы, 30А",
+                "latitude": 53.988342,
+                "longitude": 27.67411
+            },
+            "photo": "https://imgproxy.onliner.by/A2M7Pk_45Wot19GbiR0nhxWr15WeQqzc4UOnvs-iNUo/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/L2I3ZTJmNDkwOGUw/ODg0OWE4MDAzMjlh/MGMxNWFiMTBhLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-01T11:40:43+03:00",
+            "last_time_up": "2026-04-09T13:55:27+03:00",
+            "up_available_in": 85131,
+            "url": "https://r.onliner.by/ak/apartments/964901"
+        },
+        {
+            "id": 965580,
+            "price": {
+                "amount": "430.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1247.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "430.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "",
+                "user_address": "Минск, Героев 120-й Дивизии, 23",
+                "latitude": 53.943657,
+                "longitude": 27.721712
+            },
+            "photo": "https://imgproxy.onliner.by/Ci5H335vIX8Olm_Ad81mFcmvi7ov-APRbpP-BZ7xm4k/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/LzExMTQ1YWRlMGU2/MTJiNjgzZmE2MDhk/OTE2OTc3YTc3Lmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-08T10:27:26+03:00",
+            "last_time_up": "2026-04-09T13:55:26+03:00",
+            "up_available_in": 85130,
+            "url": "https://r.onliner.by/ak/apartments/965580"
+        },
+        {
+            "id": 965441,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "3_rooms",
+            "location": {
+                "address": "",
+                "user_address": "Минск, Прушинских, 4",
+                "latitude": 53.838017,
+                "longitude": 27.586813
+            },
+            "photo": "https://imgproxy.onliner.by/YiKCzccsoB8fZY7irH3DQkujf7Mv_m4wK5S1nLiJMnE/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/LzE5NzhkYWM3ODI0/MmY3MWRmZGNiZTY3/NGQwNzgxMDBhLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-06T16:41:55+03:00",
+            "last_time_up": "2026-04-09T13:55:26+03:00",
+            "up_available_in": 85130,
+            "url": "https://r.onliner.by/ak/apartments/965441"
+        },
+        {
+            "id": 964902,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "",
+                "user_address": "Лесной, Лесной, 15А",
+                "latitude": 54.004707,
+                "longitude": 27.686869
+            },
+            "photo": "https://imgproxy.onliner.by/0mW24S0yEO2eTFwVZpZTYeGbYsCGFzo00vwqRB5_HwA/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMzIw/MTczL29yaWdpbmFs/L2U1MjYwNmZhMDg3/ODM5YmU4NzY5MDg2/YTFhOWU3MTkzLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-01T11:42:17+03:00",
+            "last_time_up": "2026-04-09T13:55:26+03:00",
+            "up_available_in": 85130,
+            "url": "https://r.onliner.by/ak/apartments/964902"
+        },
+        {
+            "id": 965693,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Боровлянский сельский Совет, Копище, улица Артёма Микояна, 1",
+                "user_address": "Боровлянский сельский Совет, Копище, улица Артёма Микояна, 1",
+                "latitude": 53.95419775,
+                "longitude": 27.664583905963525
+            },
+            "photo": "https://imgproxy.onliner.by/Kgjrzbb2NQYCXS9QmJTEWyJ94W1B3ZkfSJLuAP7i4N4/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xODA5/MTgyL29yaWdpbmFs/L2MyZWYwZThkMjUy/ZWUxM2NjNTkxMTdm/NDc3MmJiY2QxLmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-09T13:49:00+03:00",
+            "last_time_up": "2026-04-09T13:49:00+03:00",
+            "up_available_in": 84744,
+            "url": "https://r.onliner.by/ak/apartments/965693"
+        },
+        {
+            "id": 965198,
+            "price": {
+                "amount": "390.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1131.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "390.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, улица Менделеева, 7",
+                "user_address": "Минск, улица Менделеева, 7",
+                "latitude": 53.90121045,
+                "longitude": 27.6200868
+            },
+            "photo": "https://imgproxy.onliner.by/XiKNOyn3kH4R36be2wIfpXx4FhYkMB6z452Y6eZSyhA/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by80MDQ1/MTcxL29yaWdpbmFs/L2RjNDQwYjE4OGZk/ZTY0ZmE3NDQ4OWY1/ZmVlMmZlNTRiLmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-03T15:23:08+03:00",
+            "last_time_up": "2026-04-09T13:47:09+03:00",
+            "up_available_in": 84633,
+            "url": "https://r.onliner.by/ak/apartments/965198"
+        },
+        {
+            "id": 737453,
+            "price": {
+                "amount": "350.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1015.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "350.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Тикоцкого, 14",
+                "user_address": "Минск, улица Тикоцкого, 14",
+                "latitude": 53.9557068,
+                "longitude": 27.62723440264135
+            },
+            "photo": "https://imgproxy.onliner.by/f2g_9ePOjJ05tfiESzvERisIjF89BdQqcdzrZMpUJx0/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by83NzA3/MTQvb3JpZ2luYWwv/OGViYTlkZmMxYTcw/ZTlkNWQzZTUyZTgx/YzhiOTg3YTYuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2022-04-21T11:14:02+03:00",
+            "last_time_up": "2026-04-09T13:37:31+03:00",
+            "up_available_in": 84055,
+            "url": "https://r.onliner.by/ak/apartments/737453"
+        },
+        {
+            "id": 957558,
+            "price": {
+                "amount": "360.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1044.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "360.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, проспект Любимова, 30 к1",
+                "user_address": "Минск, проспект Любимова, 30 к1",
+                "latitude": 53.863038200000005,
+                "longitude": 27.460853641630912
+            },
+            "photo": "https://imgproxy.onliner.by/zUm2VO9aEgLUsj-IV3p_MmM7c6FEWk4153gG5x7tj_4/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zNzM5/MTk5L29yaWdpbmFs/LzNkZGUxOTExMWRm/OGUyYjA4YmZkNmY2/NDZhZWQyNTIxLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-01-23T11:53:30+03:00",
+            "last_time_up": "2026-04-09T13:30:49+03:00",
+            "up_available_in": 83653,
+            "url": "https://r.onliner.by/ak/apartments/957558"
+        },
+        {
+            "id": 960794,
+            "price": {
+                "amount": "410.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1189.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "410.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "г. Минск, Хмелевского ул., д. 38",
+                "user_address": "Минск, Хмелевского ул., 38",
+                "latitude": 53.893,
+                "longitude": 27.519
+            },
+            "photo": "https://imgproxy.onliner.by/dmoaqw3VbLoDoOuHWBY9uoB7UcvSiHYvrA4uVrNlNX0/w:600/h:400/dpr:2/aHR0cHM6Ly9pby5h/Y3RpdmVjbG91ZC5j/b20vY3JtL29iamVj/dHMvaW1hZ2VzLzY5/OTZmYzdmN2EyZjk3/OTIwNDk2OTEuanBn",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-02-20T15:33:34+03:00",
+            "last_time_up": "2026-04-09T13:30:10+03:00",
+            "up_available_in": 83614,
+            "url": "https://r.onliner.by/ak/apartments/960794"
+        },
+        {
+            "id": 964560,
+            "price": {
+                "amount": "370.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1073.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "370.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Minsk, вуліца Кунцаўшчына, 36",
+                "user_address": "минск ул Кунцевщина д36",
+                "latitude": 53.913344232306,
+                "longitude": 27.438059449196
+            },
+            "photo": "https://imgproxy.onliner.by/FRg5X--zDOOJbQ0VY2CrJHsGOvdVTfdZPjQWAHBWJA4/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by81Nzkw/NTUvb3JpZ2luYWwv/MzRmOGFhYjFmNGI5/ZGRmZWUzZTFmNWEw/N2M0MmU1ZmUuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-03-27T17:24:58+03:00",
+            "last_time_up": "2026-04-09T13:26:56+03:00",
+            "up_available_in": 83420,
+            "url": "https://r.onliner.by/ak/apartments/964560"
+        },
+        {
+            "id": 965133,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Боровлянский сельский Совет, Копище, улица Александра Яковлева, 8",
+                "user_address": "Боровлянский сельский Совет, Копище, улица Александра Яковлева, 8",
+                "latitude": 53.962993100000006,
+                "longitude": 27.662192759514546
+            },
+            "photo": "https://imgproxy.onliner.by/Ci4dQEMRjlXCuJJ6whuGRfWbvkNeH7R7lG1ikgEDivI/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zOTgx/OTQ5L29yaWdpbmFs/LzgyMjYxNWZjNjk3/YjIxMWYwYmNmMDNm/ODNlMTA2YTFjLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-03T09:34:10+03:00",
+            "last_time_up": "2026-04-09T13:22:59+03:00",
+            "up_available_in": 83183,
+            "url": "https://r.onliner.by/ak/apartments/965133"
+        },
+        {
+            "id": 503640,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, Байкальская улица, 58 к1",
+                "user_address": "Минск, ул.Байкальская д.58 корп.1",
+                "latitude": 53.868278965733,
+                "longitude": 27.688069344586
+            },
+            "photo": "https://imgproxy.onliner.by/SqvkkC60R3UI8pn79fPWqfV1EmoEA-x7H305RA6kRI0/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/X3JlbnRhbHMvMjky/NDc3NC8xNDAweDkz/MC9mZTgwODUwMDI3/MjhkNWE0ZWQwOTdm/MzA3YmM4MGMxMS5q/cGVn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2020-01-04T10:26:08+03:00",
+            "last_time_up": "2026-04-09T13:12:16+03:00",
+            "up_available_in": 82540,
+            "url": "https://r.onliner.by/ak/apartments/503640"
+        },
+        {
+            "id": 956623,
+            "price": {
+                "amount": "1175.00",
+                "currency": "BYN",
+                "converted": {
+                    "BYN": {
+                        "amount": "1175.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "405.17",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, улица Кольцова, 18 к2",
+                "user_address": "Минск, улица Кольцова, 18 к2",
+                "latitude": 53.9538358,
+                "longitude": 27.60696431156679
+            },
+            "photo": "https://imgproxy.onliner.by/R7MBqUsp9vK5gdj2wTEaTM5pibCKmLbwyfKz7nFgNtU/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by84MTY0/MTYvb3JpZ2luYWwv/ZTM5ZDJlMTliMmU3/M2EzOWJlM2FkYWNm/ZmU4Njk5M2IuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-01-14T13:00:33+03:00",
+            "last_time_up": "2026-04-09T12:52:34+03:00",
+            "up_available_in": 81358,
+            "url": "https://r.onliner.by/ak/apartments/956623"
+        },
+        {
+            "id": 949452,
+            "price": {
+                "amount": "950.00",
+                "currency": "BYN",
+                "converted": {
+                    "BYN": {
+                        "amount": "950.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "327.59",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Minsk, вуліца Гамарніка, 20 к1",
+                "user_address": "Минск, улица Гамарника, 20 к1",
+                "latitude": 53.9587494907,
+                "longitude": 27.612762451172
+            },
+            "photo": "https://imgproxy.onliner.by/d9lE2ru7QX85uw_IT6voNpfmnAKZ0WeyDutqIAOFN5Y/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by82MTc4/Mzcvb3JpZ2luYWwv/NWRhMzI5N2M0ODdh/MTBkZTcxMjA2YWZk/ODAxZGI0YWQuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2025-10-29T13:05:40+03:00",
+            "last_time_up": "2026-04-09T12:48:14+03:00",
+            "up_available_in": 81098,
+            "url": "https://r.onliner.by/ak/apartments/949452"
+        },
+        {
+            "id": 957940,
+            "price": {
+                "amount": "300.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "870.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "300.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Ждановичский сельский Совет, Ждановичи, Цветочная улица",
+                "user_address": "Ждановичи, Цветочная улица",
+                "latitude": 53.9349598,
+                "longitude": 27.417411
+            },
+            "photo": "https://imgproxy.onliner.by/OAj-UJJ69eTN1bSjtN_igUk42Svg7v3wuJujrq_soIo/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xNTA3/Mzk4L29yaWdpbmFs/LzI1MDNmMWQ5MDdh/Y2VkZWZkOTkyNDQ0/ZWJjODZkM2M5Lmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-01-26T13:48:00+03:00",
+            "last_time_up": "2026-04-09T12:44:19+03:00",
+            "up_available_in": 80863,
+            "url": "https://r.onliner.by/ak/apartments/957940"
+        },
+        {
+            "id": 964064,
+            "price": {
+                "amount": "330.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "957.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "330.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Кунцевщина, 4",
+                "user_address": "Минск, улица Кунцевщина, 4",
+                "latitude": 53.9094771,
+                "longitude": 27.4373103
+            },
+            "photo": "https://imgproxy.onliner.by/ChqJFVqFGAT9XFxAfoVBpJt5jZ2BSU3DD2bz7MF_NM4/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMjkz/ODI0L29yaWdpbmFs/LzUwNzhiMDBmODRk/NjYwMGZjM2E0MjEx/MjEyNGRkODNkLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-03-23T21:51:37+03:00",
+            "last_time_up": "2026-04-09T12:43:20+03:00",
+            "up_available_in": 80804,
+            "url": "https://r.onliner.by/ak/apartments/964064"
+        },
+        {
+            "id": 965061,
+            "price": {
+                "amount": "350.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1015.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "350.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Руссиянова, 24",
+                "user_address": "Минск, улица Руссиянова, 24",
+                "latitude": 53.93699725,
+                "longitude": 27.68826732731604
+            },
+            "photo": "https://imgproxy.onliner.by/f68KgHcFe1cBYdSegOATyIWif7dehtyyYGsbx3izD4I/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zMjkz/ODI0L29yaWdpbmFs/LzE4M2E3ODM4OTVk/YmU5ZWJkMGZlM2Y5/MTg5M2I1YjI1Lmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-02T12:15:48+03:00",
+            "last_time_up": "2026-04-09T12:43:16+03:00",
+            "up_available_in": 80800,
+            "url": "https://r.onliner.by/ak/apartments/965061"
+        },
+        {
+            "id": 965686,
+            "price": {
+                "amount": "385.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1116.50",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "385.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Скрипникова",
+                "user_address": "Минск, улица Скрипникова 7",
+                "latitude": 53.9012142,
+                "longitude": 27.4236903
+            },
+            "photo": "https://imgproxy.onliner.by/dd8Xe7ZqpkIWCJqU0KzkIxSPMPbLQ5PaiobDHB26Blo/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xODQ0/MDYvb3JpZ2luYWwv/ZWU2YmQxODAyMDIz/MTAwYWEzMWQ3MTU3/ZjE3ZDVkNjMuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-09T12:40:58+03:00",
+            "last_time_up": "2026-04-09T12:40:58+03:00",
+            "up_available_in": 80662,
+            "url": "https://r.onliner.by/ak/apartments/965686"
+        },
+        {
+            "id": 960034,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, бульвар Шевченко, 7",
+                "user_address": "Минск, бульвар Шевченко, 7",
+                "latitude": 53.9254733,
+                "longitude": 27.55556411584751
+            },
+            "photo": "https://imgproxy.onliner.by/vBARvP7QPa7RwjtnPhAdjxBdgYHK4uiCwsAi7Q0baqQ/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xODQ3/Njg1L29yaWdpbmFs/LzE4ZGM4YzQ0NTQz/NjMxMDNmY2ZjNmUw/Yjc1NWI4MWUzLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-02-12T13:03:31+03:00",
+            "last_time_up": "2026-04-09T12:35:36+03:00",
+            "up_available_in": 80340,
+            "url": "https://r.onliner.by/ak/apartments/960034"
+        },
+        {
+            "id": 965438,
+            "price": {
+                "amount": "1300.00",
+                "currency": "BYN",
+                "converted": {
+                    "BYN": {
+                        "amount": "1300.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "448.28",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Болеслава Берута, 15 к2",
+                "user_address": "Минск, улица Болеслава Берута, 15 к2",
+                "latitude": 53.9006193,
+                "longitude": 27.50656948649706
+            },
+            "photo": "https://imgproxy.onliner.by/Z0d9eaX94Dgm3pezeXXJmUxVWZl6BWSUnsRGErUVXPM/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xODQ3/Njg1L29yaWdpbmFs/L2E2OTEyMTRiYjA2/Mjg5NmZlMWY1Yzcx/Y2IwYmNmMmJmLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-04-06T16:18:32+03:00",
+            "last_time_up": "2026-04-09T12:35:32+03:00",
+            "up_available_in": 80336,
+            "url": "https://r.onliner.by/ak/apartments/965438"
+        },
+        {
+            "id": 774286,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Острошицко-Городокский сельский Совет, Узборье",
+                "user_address": "Острошицко-Городокский сельский Совет, Узборье-строй",
+                "latitude": 54.0428412,
+                "longitude": 27.7220018
+            },
+            "photo": "https://imgproxy.onliner.by/jOFkWs5erNX6PEJ47dDadI8B5Sy1HXnHlbbyXTPlJRc/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/X3JlbnRhbHMvMjE4/MDA2My8xNDAweDkz/MC9lZWYyNmY3Zjlm/NzI4MjQxMmU2N2Fj/ZGFkMjY4OWZkOC5q/cGVn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2022-09-11T12:36:10+03:00",
+            "last_time_up": "2026-04-09T12:28:48+03:00",
+            "up_available_in": 79932,
+            "url": "https://r.onliner.by/ak/apartments/774286"
+        },
+        {
+            "id": 965202,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Николы Теслы, 30",
+                "user_address": "Минск, улица Николы Теслы, 30",
+                "latitude": 53.8653999,
+                "longitude": 27.5562795
+            },
+            "photo": "https://imgproxy.onliner.by/GwYBKOnyRkoLGEUBvZWV4mw_aauugQ4SWLFQmZnk9HI/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8yNDc4/NzQzL29yaWdpbmFs/LzUxNTRlMGNjNTk3/Y2YxMDJhZTI2MWQ5/ZjYwODFmOWM2Lmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-03T16:04:31+03:00",
+            "last_time_up": "2026-04-09T12:27:06+03:00",
+            "up_available_in": 79830,
+            "url": "https://r.onliner.by/ak/apartments/965202"
+        },
+        {
+            "id": 965680,
+            "price": {
+                "amount": "350.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1015.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "350.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Связистов, 11",
+                "user_address": "Минск, улица Связистов, 11",
+                "latitude": 53.91433605,
+                "longitude": 27.676426773805957
+            },
+            "photo": "https://imgproxy.onliner.by/a0E75p644rXZLSPLQ0aOPNYt2G3jrHBgcezaF15QDME/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zOTA1/NTk5L29yaWdpbmFs/L2MwODI1MmU5ZjUw/NjVlZDI2NmQ3MmU1/YjNkZjBhNTc2Lmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-09T12:23:05+03:00",
+            "last_time_up": "2026-04-09T12:23:05+03:00",
+            "up_available_in": 79589,
+            "url": "https://r.onliner.by/ak/apartments/965680"
+        },
+        {
+            "id": 963090,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Гурского, 41",
+                "user_address": "Минск, улица Гурского, 41",
+                "latitude": 53.8778466,
+                "longitude": 27.4950026
+            },
+            "photo": "https://imgproxy.onliner.by/GEEJZn6rgMor_QBH95bhZPL-uWCYPMPf0kXJRXsOmts/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zOTk2/NzkyL29yaWdpbmFs/LzQ2NTAyYWRiZGJl/MzBmMWM4YTUyNWU2/ZDZhNWU5NTk3Lmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-03-14T13:17:13+03:00",
+            "last_time_up": "2026-04-09T12:15:04+03:00",
+            "up_available_in": 79108,
+            "url": "https://r.onliner.by/ak/apartments/963090"
+        },
+        {
+            "id": 955440,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Скрипникова, 11",
+                "user_address": "Минск, улица Скрипникова, 11",
+                "latitude": 53.89076505,
+                "longitude": 27.420358422411937
+            },
+            "photo": "https://imgproxy.onliner.by/H3iiPO_s7-yJhogtigDKEEWWFS2M0Qd8aaT86WItJ1I/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8yMzQx/MjE5L29yaWdpbmFs/LzVmMzQyZWFiZTNi/ZWFiOTJmN2NhZjRh/NDZhODlkYWI3Lmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-01-04T16:58:24+03:00",
+            "last_time_up": "2026-04-09T12:02:49+03:00",
+            "up_available_in": 78373,
+            "url": "https://r.onliner.by/ak/apartments/955440"
+        },
+        {
+            "id": 957375,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "3_rooms",
+            "location": {
+                "address": "Минск, 2-й переулок Багратиона, 19",
+                "user_address": "Минск, 2-й переулок Багратиона, 19",
+                "latitude": 53.911110300000004,
+                "longitude": 27.626114219931118
+            },
+            "photo": "https://imgproxy.onliner.by/aupyxwbpm0be5u5jGEuadC8g6iAYwPzqzBPZAHb8VeU/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by85MjE3/MjUvb3JpZ2luYWwv/OTFlMTYxZmY0N2Qz/ODIwZDFlNWQ5MmI4/MjUxZjA1MTguanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-01-21T14:12:17+03:00",
+            "last_time_up": "2026-04-09T11:58:31+03:00",
+            "up_available_in": 78115,
+            "url": "https://r.onliner.by/ak/apartments/957375"
+        },
+        {
+            "id": 965200,
+            "price": {
+                "amount": "450.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1305.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "450.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "1_room",
+            "location": {
+                "address": "Минск, улица Бельского, 26",
+                "user_address": "Минск, улица Бельского, 26",
+                "latitude": 53.9038071,
+                "longitude": 27.4787962
+            },
+            "photo": "https://imgproxy.onliner.by/Caz9YiZ4U6L5kqgZfiWWSyWeOEp64S0JKIu_ss83k2U/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xMjAw/MTUvb3JpZ2luYWwv/MmRiMGQ3NjJhNjNi/NWZiZGVmNzY1MzBi/MjNjNmQ5YzAuanBn",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-04-03T15:41:07+03:00",
+            "last_time_up": "2026-04-09T11:54:46+03:00",
+            "up_available_in": 77890,
+            "url": "https://r.onliner.by/ak/apartments/965200"
+        },
+        {
+            "id": 963798,
+            "price": {
+                "amount": "400.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1160.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "400.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "3_rooms",
+            "location": {
+                "address": "Сеницкий сельский Совет, Сеница, Набережная улица, 57А",
+                "user_address": "Сеницкий сельский Совет, Сеница, Набережная улица, 57А",
+                "latitude": 53.82390175,
+                "longitude": 27.51900950704684
+            },
+            "photo": "https://imgproxy.onliner.by/Np1dlFPdQR3FOauOYq6-sbH_Lo0buAo6JIda2gaYTic/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8xNTIy/NjIxL29yaWdpbmFs/L2I1MmQ3ZWNkODBl/OGU5OGJlNTFlMDQ3/N2YxOWE1MDJkLmpw/Zw",
+            "contact": {
+                "owner": true
+            },
+            "created_at": "2026-03-20T23:35:15+03:00",
+            "last_time_up": "2026-04-09T11:51:14+03:00",
+            "up_available_in": 77678,
+            "url": "https://r.onliner.by/ak/apartments/963798"
+        },
+        {
+            "id": 960928,
+            "price": {
+                "amount": "350.00",
+                "currency": "USD",
+                "converted": {
+                    "BYN": {
+                        "amount": "1015.00",
+                        "currency": "BYN"
+                    },
+                    "USD": {
+                        "amount": "350.00",
+                        "currency": "USD"
+                    }
+                }
+            },
+            "rent_type": "2_rooms",
+            "location": {
+                "address": "Минск, Ангарская улица, 26 к2",
+                "user_address": "Минск, Ангарская улица, 26 к2",
+                "latitude": 53.86864975,
+                "longitude": 27.683818379829532
+            },
+            "photo": "https://imgproxy.onliner.by/e0oI0RQz5r39RvHwf2-fSH4R3y_kHcJgw9lGKJQF_44/w:600/h:400/dpr:2/aHR0cHM6Ly9jb250/ZW50Lm9ubGluZXIu/YnkvYXBhcnRtZW50/c19waG90by8zNzM5/MTk5L29yaWdpbmFs/L2ExODRmMzc5ZDQy/ODA1NzMzZDVkZGQw/YTI5ZGU5MGUxLmpw/Zw",
+            "contact": {
+                "owner": false
+            },
+            "created_at": "2026-02-23T09:01:40+03:00",
+            "last_time_up": "2026-04-09T11:48:02+03:00",
+            "up_available_in": 77486,
+            "url": "https://r.onliner.by/ak/apartments/960928"
+        }
+    ],
+    "total": 374,
+    "page": {
+        "limit": 36,
+        "items": 36,
+        "current": 1,
+        "last": 11
+    }
+}

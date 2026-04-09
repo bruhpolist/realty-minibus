@@ -1,0 +1,82 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: realty_minibus
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d realty_minibus"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  redis:
+    image: redis:7-alpine
+    restart: unless-stopped
+    command: redis-server --appendonly yes
+    volumes:
+      - redisdata:/data
+
+  backend:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+      redis:
+        condition: service_started
+    ports:
+      - "4000:4000"
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@postgres:5432/realty_minibus
+      REDIS_URL: redis://redis:6379
+      USD_RATE: 3.3
+      PRICE_MIN: 980
+      PRICE_MAX: 1320
+      IMAGES_DIR: ../public/images
+      SCRAPE_CRON: "*/10 * * * *"
+      FRONTEND_ORIGIN: http://localhost:3000
+      BOT_TOKEN: ${BOT_TOKEN:-}
+    volumes:
+      - images:/app/public/images
+
+  worker:
+    build:
+      context: .
+      dockerfile: Dockerfile.backend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    command: ["node", "backend/dist/queue/image.worker.js"]
+    environment:
+      DATABASE_URL: postgresql://postgres:postgres@postgres:5432/realty_minibus
+      REDIS_URL: redis://redis:6379
+      USD_RATE: 3.3
+      PRICE_MIN: 980
+      PRICE_MAX: 1320
+      IMAGES_DIR: ../public/images
+    volumes:
+      - images:/app/public/images
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    restart: unless-stopped
+    depends_on:
+      - backend
+    ports:
+      - "3000:3000"
+    environment:
+      NEXT_PUBLIC_API_URL: http://localhost:4000
+
+volumes:
+  pgdata:
+  redisdata:
+  images:
